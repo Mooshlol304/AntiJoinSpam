@@ -3,6 +3,7 @@ version: '1.0-SNAPSHOT'
 main: xyz.moosh.antiJoinSpam.AntiJoinSpam
 api-version: '1.21'
 authors: [ Moosh ]
+github: 'https://github.com/Mooshlol304/AntiJoinSpam'
 description: Suppresses join/leave broadcasts for players who relog too frequently.
 folia-supported: true
 
