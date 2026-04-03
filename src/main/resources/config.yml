@@ -1,0 +1,13 @@
+# ──────────────────────────────────────────────
+#  AntiJoinSpam  —  config.yml
+# ──────────────────────────────────────────────
+
+# Sliding time window (in seconds).
+# Logins are tracked within this window.
+# Example: 60 means "logins within the last 60 seconds".
+time-window: 60
+
+# Maximum number of logins allowed within the window
+# before that player's join/leave messages are silenced.
+# Example: 2 means the 3rd login within the window triggers suppression.
+max-logins: 2

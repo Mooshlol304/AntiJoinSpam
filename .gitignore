@@ -1,0 +1,13 @@
+# Gradle
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+gradle.properties
+settings.gradle
+
+# Build output
+build/
+
+# IDE
+.idea/

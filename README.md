@@ -1,0 +1,1 @@
+Suppresses join/leave broadcasts for players who relog too frequently.
